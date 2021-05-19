@@ -1,0 +1,3 @@
+study = finish Ai course
+work = Quantum Chemistry researcher
+goal = to love life and all, do good, happy
